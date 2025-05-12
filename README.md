@@ -19,11 +19,11 @@ This project is a web scraping and parsing tool built with Python. It allows use
 # Dependencies
 The project requires the following Python libraries:
 
-python-dotenv
-streamlit
-langchain
-langchain_ollama
-selenium
-beautifulsoup4
-lxml
-html5lib
+python-dotenv |
+streamlit |
+langchain |
+langchain_ollama |
+selenium |
+beautifulsoup4 |
+lxml |
+html5lib |
